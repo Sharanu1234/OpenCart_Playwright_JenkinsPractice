@@ -1,12 +1,12 @@
-<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="8.759872999999992">
-<testsuite name="api\auth.spec.ts" timestamp="2026-10-20T21:23:37.521Z" hostname="chromium" tests="2" failures="0" skipped="0" time="13.035" errors="0">
-<testcase name="Authentication API Tests › POST - Successful Login @master @sanity @api" classname="api\auth.spec.ts" time="6.201">
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="22.463126">
+<testsuite name="api\auth.spec.ts" timestamp="2026-10-20T22:21:38.354Z" hostname="chromium" tests="2" failures="0" skipped="0" time="13.22" errors="0">
+<testcase name="Authentication API Tests › POST - Successful Login @master @sanity @api" classname="api\auth.spec.ts" time="6.633">
 </testcase>
-<testcase name="Authentication API Tests › POST - Invalid Login @master @regression @api" classname="api\auth.spec.ts" time="6.834">
+<testcase name="Authentication API Tests › POST - Invalid Login @master @regression @api" classname="api\auth.spec.ts" time="6.587">
 </testcase>
 </testsuite>
-<testsuite name="web\valid-login.spec.ts" timestamp="2026-10-20T21:23:37.521Z" hostname="chromium" tests="1" failures="0" skipped="0" time="4.531" errors="0">
-<testcase name="Valid Login Flow @master @sanity @regression @web" classname="web\valid-login.spec.ts" time="4.531">
+<testsuite name="web\valid-login.spec.ts" timestamp="2026-10-20T22:21:38.354Z" hostname="chromium" tests="1" failures="0" skipped="0" time="12.632" errors="0">
+<testcase name="Valid Login Flow @master @sanity @regression @web" classname="web\valid-login.spec.ts" time="12.632">
 <system-out>
 <![CDATA[✅ Valid Login completed successfully!
 ]]>

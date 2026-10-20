@@ -1,7 +1,6 @@
 /**
  * Custom Reporter for Playwright
- * @author Pavan @SDET-QA
- * @website https://pavanonlinetrainings.com
+
  * @version 1.0.0
  * @description Custom HTML Reporter for Playwright Test Automation Framework
  */
@@ -1055,9 +1054,7 @@ class CustomReporter implements Reporter {
         <img id="modalImage" class="modal-content" src="" alt="Screenshot">
     </div>
 
-    <footer class="report-footer">
-        <p>Designed by <a href="https://pavanonlinetrainings.com" target="_blank"> Pavan</a> @ <a href="https://youtube.com/@sdetpavan/" target="_blank">SDET-QA</a></p>
-    </footer>
+  
 
     <script>
         ${this.getScripts()}
