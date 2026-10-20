@@ -1,2 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","9932","Valid Login Flow @master @sanity @regression @web","chromium","2026-10-16","passed","2026-10-16","","web\valid-login.spec.ts","",""
+"","6834","POST - Invalid Login @master @regression @api","chromium","2026-10-21","passed","2026-10-21","Authentication API Tests","api\auth.spec.ts","",""
+"","4531","Valid Login Flow @master @sanity @regression @web","chromium","2026-10-21","passed","2026-10-21","","web\valid-login.spec.ts","",""
+"","6201","POST - Successful Login @master @sanity @api","chromium","2026-10-21","passed","2026-10-21","Authentication API Tests","api\auth.spec.ts","",""

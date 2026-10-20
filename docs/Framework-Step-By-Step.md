@@ -615,6 +615,7 @@ npm run test:master
 ## Generate and View the Allure Report
 
 The Allure reporter was registered in `playwright.config.ts` in Step 2.
+Playwright clears `allure-results` before each run, so generated reports contain only that run's results. Failures from the current run will still appear.
 
 ```bash
 allure generate ./allure-results -o ./allure-report --clean
